@@ -1,4 +1,4 @@
-Hi <img src="https://raw.githubusercontent.com/thisisjaymehta/thisisjaymehta/main/tenor.gif" width="26px">,
+Hi,
 
 This is **Jay Mehta**
 
