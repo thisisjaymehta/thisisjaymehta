@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-### (Was) Listening to
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000618.7bfd4bffb58a447d8cca77630950c80e.1235)](https://github.com/rayriffy/apple-music-github-profile)
-
 ### Know / Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
