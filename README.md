@@ -15,3 +15,11 @@
 ![Jay's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thisisjaymehta)
 
 [![wakatime](https://wakatime.com/badge/user/1b2105d7-6918-4c81-b3e5-507d06d71c6d.svg)](https://wakatime.com/@1b2105d7-6918-4c81-b3e5-507d06d71c6d)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/thisisjaymehta"
+  width="600"
+  height="300"
+/>
+</a>
